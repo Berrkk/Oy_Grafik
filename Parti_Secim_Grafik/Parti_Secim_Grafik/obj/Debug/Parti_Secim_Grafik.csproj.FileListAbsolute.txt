@@ -1,0 +1,11 @@
+C:\Users\hasan\source\repos\Parti_Secim_Grafik\Parti_Secim_Grafik\bin\Debug\Parti_Secim_Grafik.exe.config
+C:\Users\hasan\source\repos\Parti_Secim_Grafik\Parti_Secim_Grafik\bin\Debug\Parti_Secim_Grafik.exe
+C:\Users\hasan\source\repos\Parti_Secim_Grafik\Parti_Secim_Grafik\bin\Debug\Parti_Secim_Grafik.pdb
+C:\Users\hasan\source\repos\Parti_Secim_Grafik\Parti_Secim_Grafik\obj\Debug\Parti_Secim_Grafik.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Parti_Secim_Grafik\Parti_Secim_Grafik\obj\Debug\Parti_Secim_Grafik.FrmOyGiris.resources
+C:\Users\hasan\source\repos\Parti_Secim_Grafik\Parti_Secim_Grafik\obj\Debug\Parti_Secim_Grafik.FrmGrafikler.resources
+C:\Users\hasan\source\repos\Parti_Secim_Grafik\Parti_Secim_Grafik\obj\Debug\Parti_Secim_Grafik.Properties.Resources.resources
+C:\Users\hasan\source\repos\Parti_Secim_Grafik\Parti_Secim_Grafik\obj\Debug\Parti_Secim_Grafik.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\Parti_Secim_Grafik\Parti_Secim_Grafik\obj\Debug\Parti_Secim_Grafik.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Parti_Secim_Grafik\Parti_Secim_Grafik\obj\Debug\Parti_Secim_Grafik.exe
+C:\Users\hasan\source\repos\Parti_Secim_Grafik\Parti_Secim_Grafik\obj\Debug\Parti_Secim_Grafik.pdb
